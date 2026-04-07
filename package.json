@@ -1,0 +1,10 @@
+{
+  "name": "helium-style-depin",
+  "version": "1.0.0",
+  "description": "On-chain infrastructure for decentralized wireless networks",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
